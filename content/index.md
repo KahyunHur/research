@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Our Lab's Research Website
+draft: false
 ---
+# Welcome to Our Lab's Research Website
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Explore our research, publications, and learn about the concepts we work with.
+
+- [[Group Members]]
+- [[Research Topics]]
+- [[Journal Publications]]
+- [[Scientific Entities]]
