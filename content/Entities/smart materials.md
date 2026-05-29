@@ -1,7 +1,7 @@
 ---
-title: "smart materials"
+title: "Smart Materials"
 ---
-# smart materials
+# Smart Materials
 
 ## Definition
-Smart materials are engineered substances that can significantly change their properties, such as shape, color, or stiffness, in response to external stimuli like heat, light, or electricity. They act like sensors and actuators combined, allowing them to "respond" to their environment in a predictable and useful way.
+Smart materials are specially designed substances that can change their physical properties, such as shape, color, or stiffness, in response to external triggers like heat, light, or pressure. These materials are unique because they can sense and react to their environment in a predictable way, allowing them to perform useful functions automatically.

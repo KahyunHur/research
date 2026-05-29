@@ -3,18 +3,16 @@ title: "Energy"
 ---
 # Energy
 
-This is a key research area in our lab under the **Applications** division.
-
-**Key Focus Areas / Related Concepts**: [[Lithium batteries]], [[Fuel cells]], [[Radiative cooling]], [[Catalysis]]
+**Key Focus Areas / Related Concepts**: [[Lithium Batteries|Lithium batteries]], [[Fuel Cells|Fuel cells]], [[Radiative Cooling|Radiative cooling]], [[Catalysis]]
 
 See also our [[Journal Publications]] for more details on our findings related to Energy.
 
 ## Overview
 Energy is the invisible force that powers our modern world, but generating it is only half the challenge. The real magic happens when we find ways to store, convert, and manage that energy efficiently for everyday applications. In our lab, we focus on developing advanced materials that make clean energy technologies more powerful, durable, and accessible for everything from electric vehicles to sustainable homes.
 
-A major part of our work involves improving how we store and release power. For example, we are engineering the next generation of [[Lithium batteries]] to hold more charge and last longer, ensuring our transportation and portable devices can run reliably. At the same time, we are advancing the materials used in [[Fuel cells]], which generate electricity through clean chemical reactions, often producing nothing but water as a byproduct. To make these chemical reactions happen faster and more efficiently, we rely on the science of [[Catalysis]], designing special materials that speed up energy conversion processes without being consumed themselves.
+A major part of our work involves improving how we store and release power. For example, we are engineering the next generation of [[Lithium Batteries|Lithium batteries]] to hold more charge and last longer, ensuring our transportation and portable devices can run reliably. At the same time, we are advancing the materials used in [[Fuel Cells|Fuel cells]], which generate electricity through clean chemical reactions, often producing nothing but water as a byproduct. To make these chemical reactions happen faster and more efficiently, we rely on the science of [[Catalysis]], designing special materials that speed up energy conversion processes without being consumed themselves.
 
-Beyond generating and storing power, we are also innovating ways to passively conserve it. We are developing unique materials for [[Radiative cooling]], a fascinating technology that essentially acts as an air conditioner that requires zero electricity. It works by passively beaming heat away from buildings and devices directly into the cold vacuum of space. By combining these advanced materials, we are tackling the global energy challenge from multiple angles, paving the way for a truly sustainable future.
+Beyond generating and storing power, we are also innovating ways to passively conserve it. We are developing unique materials for [[Radiative Cooling|Radiative cooling]], a fascinating technology that essentially acts as an air conditioner that requires zero electricity. It works by passively beaming heat away from buildings and devices directly into the cold vacuum of space. By combining these advanced materials, we are tackling the global energy challenge from multiple angles, paving the way for a truly sustainable future.
 
 
 ## Related Publications

@@ -1,7 +1,7 @@
 ---
-title: "infrared radiation"
+title: "Infrared Radiation"
 ---
-# infrared radiation
+# Infrared Radiation
 
 ## Definition
-Infrared radiation is a type of invisible electromagnetic energy that humans primarily experience as heat. It sits just beyond the red end of the visible light spectrum and is emitted by all objects that have warmth, such as the sun, a toaster, or even the human body.
+Infrared radiation is a form of energy that is invisible to our eyes but can often be felt as heat. It is part of the same electromagnetic spectrum as visible light, but with longer wavelengths. Common examples include the warmth we feel from the sun or the signals used in TV remote controls.

@@ -1,7 +1,7 @@
 ---
-title: "degradability"
+title: "Degradability"
 ---
-# degradability
+# Degradability
 
 ## Definition
-Degradability is the ability of a material to safely break down into simpler substances over time when exposed to natural conditions. This process is typically driven by environmental factors such as sunlight, moisture, heat, or microscopic organisms. Materials with high degradability are important for sustainability because they naturally decompose instead of persisting as permanent waste.
+Degradability refers to the ability of a material to break down into simpler, natural components when exposed to environmental factors like sunlight, moisture, or microbes. This characteristic determines how quickly a substance decomposes and disappears, making it a key factor in assessing its long-term impact on the environment.

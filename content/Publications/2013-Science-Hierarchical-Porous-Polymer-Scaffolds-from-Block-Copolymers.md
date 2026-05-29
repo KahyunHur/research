@@ -17,4 +17,12 @@ Hierarchical porous polymer materials are of increasing importance because of th
 
 
 ## Layman's Summary
-Scientists have developed a simpler method to create special [[hierarchical porous polymers]] that are full of tiny holes of different sizes, resembling a microscopic sponge. By combining two known techniques and washing the material with specific liquids, they can precisely control the formation of both large and extremely small pores. These complex, sponge-like structures are highly useful for filtering liquids, speeding up chemical reactions through [[catalysis]], or acting as a framework to grow new crystal materials.
+Scientists have developed a simple new way to create special plastic "sponges" that feature both large and incredibly tiny pores. These materials, known as [[Hierarchical Porous Polymers|hierarchical porous polymer]] scaffolds, are **highly useful for practical applications like speeding up chemical reactions, [[Catalysis|catalysis]], and bioengineering**.
+
+Previously, making materials that integrate multiple sizes of pores at the same time was very complicated, requiring harsh chemicals, narrow manufacturing conditions, and many tedious steps.
+
+To solve this, researchers invented a straightforward "one-pot" method called SIM2PLE. They start by mixing a special type of plastic (called a block copolymer) with a smaller additive molecule in a solvent. As the mixture is heated and dries, it naturally separates into a complex structure with microscopic tunnels, which become the larger pores. At the exact same time, the smaller additive swells a specific part of the plastic, creating highly organized, nanoscale patterns within the walls of those larger tunnels.
+
+Once the material is dry, **the researchers simply rinse it with a common, safe liquid like water or alcohol**. This effortlessly washes away the smaller additive, leaving behind a solid scaffold filled with a fully connected network of both large macropores and tiny mesopores.
+
+This new method is a major breakthrough because **it replaces demanding chemical treatments with a simple, environmentally friendly washing step**, making it much easier to manufacture these complex materials. Furthermore, simply by changing the temperature at which the mixture dries, **scientists can easily control the shape of the tiny pores, tuning them to form either straight hexagonal tubes or easily accessible cubic networks**.

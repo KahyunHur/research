@@ -3,16 +3,14 @@ title: Self-Assembly Process
 ---
 # Self-Assembly Process
 
-This is a key research area in our lab under the **Methods** division.
-
-**Key Focus Areas / Related Concepts**: [[Block Copolymer Self-Assembly]]
+**Key Focus Areas / Related Concepts**: [[Block Copolymer Self-assembly|Block Copolymer Self-Assembly]]
 
 See also our [[Journal Publications]] for more details on our findings related to Self-Assembly.
 
 ## Overview
 Imagine if you could throw a pile of bricks into the air and they automatically organized themselves into a perfectly built house. In materials science, this concept is known as self-assembly. It is a process where molecules or small building blocks spontaneously arrange themselves into organized, structured patterns without outside help. They do this by following natural chemical rules—like magnets that naturally snap together in a specific way. This allows scientists to create incredibly intricate structures at a microscopic level simply by designing the right starting pieces.
 
-Our lab specifically focuses on [[Block Copolymer Self-Assembly]]. A block copolymer is essentially a chain of molecules made up of two or more distinct "blocks" of different materials tied together. Because these different blocks often repel each other—much like oil and water—they try to separate. However, since they are chemically bonded, they can't completely pull apart. Instead, they undergo a process called [[Microphase Separation]], arranging themselves into highly regular, repeating patterns, such as spheres, cylinders, or complex maze-like networks. 
+Our lab specifically focuses on [[Block Copolymer Self-assembly|Block Copolymer Self-Assembly]]. A block copolymer is essentially a chain of molecules made up of two or more distinct "blocks" of different materials tied together. Because these different blocks often repel each other—much like oil and water—they try to separate. However, since they are chemically bonded, they can't completely pull apart. Instead, they undergo a process called [[Microphase Separation]], arranging themselves into highly regular, repeating patterns, such as spheres, cylinders, or complex maze-like networks. 
 
 This phenomenon is incredibly important for manufacturing the next generation of advanced technologies. By fine-tuning the chemistry of the block copolymers, we can precisely dictate the exact shape and size of the resulting patterns at the [[Nanoscale]]. We use these self-assembling patterns as incredibly tiny templates to build smaller and more powerful computer chips, design more efficient battery membranes, and create innovative materials with customized properties that would be impossible to carve out using traditional top-down manufacturing methods.
 

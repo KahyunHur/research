@@ -3,16 +3,14 @@ title: "Hybrid materials"
 ---
 # Hybrid materials
 
-This is a key research area in our lab under the **Materials** division.
-
 **Key Focus Areas / Related Concepts**: [[Block Copolymer]], [[Liquid Crystal]]
 
 See also our [[Journal Publications]] for more details on our findings related to Hybrid materials.
 
 ## Overview
-Hybrid materials are like the ultimate team-up in the world of chemistry and engineering. Instead of relying on a single substance, scientists combine two or more fundamentally different building blocks to create a brand-new material that inherits the best traits of each. Imagine combining the flexibility of a plastic with the structural strength of a metal, or in our case, creating advanced, responsive structures that can change their properties on demand. By merging different chemical "personalities," we can design [[smart materials]] that behave in ways entirely unique to their hybrid nature.
+Hybrid materials are like the ultimate team-up in the world of chemistry and engineering. Instead of relying on a single substance, scientists combine two or more fundamentally different building blocks to create a brand-new material that inherits the best traits of each. Imagine combining the flexibility of a plastic with the structural strength of a metal, or in our case, creating advanced, responsive structures that can change their properties on demand. By merging different chemical "personalities," we can design [[Smart Materials|smart materials]] that behave in ways entirely unique to their hybrid nature.
 
-In our lab, we specifically focus on creating hybrid materials by combining [[Block Copolymer]] structures with [[Liquid Crystal]] molecules. You can think of a [[Block Copolymer]] as microscopic Lego blocks that spontaneously organize themselves into beautifully complex, repeating patterns at the [[nanoscale]]. When we weave a [[Liquid Crystal]]—the same responsive fluid used in your television and smartphone screens—into these self-assembling polymer scaffolds, the result is extraordinary. The polymer provides a robust, flexible framework, while the liquid crystal adds the ability to dynamically respond to changes in temperature, light, or electrical fields. 
+In our lab, we specifically focus on creating hybrid materials by combining [[Block Copolymer]] structures with [[Liquid Crystal]] molecules. You can think of a [[Block Copolymer]] as microscopic Lego blocks that spontaneously organize themselves into beautifully complex, repeating patterns at the [[Nanoscale|nanoscale]]. When we weave a [[Liquid Crystal]]—the same responsive fluid used in your television and smartphone screens—into these self-assembling polymer scaffolds, the result is extraordinary. The polymer provides a robust, flexible framework, while the liquid crystal adds the ability to dynamically respond to changes in temperature, light, or electrical fields. 
 
 This specific combination is incredibly important because it opens the door to next-generation technologies. By mastering how these components interact, we are developing advanced materials for wearable electronics, ultra-sensitive biological sensors, and responsive optical coatings. These hybrid structures are paving the way for a future where the materials around us can adapt and react seamlessly to their environment, combining structural stability with highly tunable, dynamic functionality.
 

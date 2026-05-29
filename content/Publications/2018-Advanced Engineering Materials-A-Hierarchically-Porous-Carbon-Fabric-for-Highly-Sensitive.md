@@ -17,4 +17,25 @@ The hierarchically porous carbon fabrics with controlled conductivity and hydrop
 
 
 ## Layman's Summary
-Researchers have developed a new type of [[porous carbon]] fabric that resembles a microscopic sponge with holes of different sizes. This unique design allows the material to efficiently conduct electricity and quickly absorb liquids, an extreme water-loving property known as [[superhydrophilicity]]. Because chemical liquids can easily soak deep into the fabric, it is highly sensitive at detecting specific substances and can be used to build advanced [[electroanalytical sensors]].
+**The Concept:**
+Imagine a high-tech "carbon sponge" fabric that can instantly "feel" and measure chemicals in a liquid. The vision is to create a material that acts like a super-absorbent cloth but also functions as a highly efficient electrical wire. By combining a "house" with giant hallways for liquids to flow through and tiny rooms to catch specific molecules, researchers have created a powerful new tool for [[Sensors|electrochemical sensors]].
+
+**The Problem:**
+Most carbon materials are like a raincoat—they are hydrophobic, meaning they naturally repel water. For a sensor that needs to detect chemicals dissolved in a liquid (like blood or industrial waste), this is a major obstacle because the liquid can't get close enough to the sensor's surface to be "read." Additionally, many materials have only one size of pores, which makes them either too slow at moving liquid or too weak at catching the tiny molecules they are supposed to detect.
+
+**The Solution:**
+The research team used a "dual-template" approach to build a two-story structure:
+*   **The Hard Template:** They used a common non-woven [[Polymers|polymeric fabric]] (similar to the material in some face masks) to create large "macro-pores" (10–15 micrometers wide).
+*   **The Soft Template:** They used a specialized block copolymer to create microscopic "meso-pores" (4–6 nanometers wide) nested inside the larger tunnels.
+*   **Carbonization:** By heating this composite in a furnace, the plastic disappeared, leaving behind a pure carbon skeleton that is both highly conductive and surprisingly "thirsty" for water.
+
+**Why This is Special:**
+*   **Super-Hydrophilicity:** Unlike standard carbon, this fabric is "super-water-loving," pulling liquids deep into its [[Nanomaterials|hierarchical nanostructure]] through capillary action.
+*   **Tunable Conductivity:** Scientists can "dial in" how well the fabric conducts electricity simply by changing the temperature of the oven during its creation.
+*   **Dual-Scale Roughness:** The combination of large and tiny pores creates a massive surface area, allowing the sensor to interact with more molecules at once.
+*   **High Sensitivity:** It can detect tiny amounts of hydrogen peroxide (a marker for disease) and methanol (crucial for [[Fuel Cells|direct methanol fuel cells]]) with incredible precision.
+
+**The Takeaway:**
+This new carbon fabric is a game-changer for the world of [[Biosensors]]. By making carbon behave more like a sponge and less like a plastic sheet, we can create wearable health monitors and clean energy devices that are faster, more accurate, and more reliable than ever before.
+
+**

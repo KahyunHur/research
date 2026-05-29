@@ -1,11 +1,13 @@
 ---
 title: Research Topics
 ---
+![[research_front_image.jpg]]
+
 # Research Topics
 
 ## Materials
 
-- [[Sustainable polymers]]
+- [[Sustainable Polymers|Sustainable polymers]]
 - [[Coordination polymers]]
 - [[Hybrid materials]]
 ## Methods

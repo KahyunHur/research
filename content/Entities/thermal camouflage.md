@@ -1,7 +1,6 @@
 ---
-title: "thermal camouflage"
+title: "Thermal Camouflage"
 ---
-# thermal camouflage
+# Thermal Camouflage
 
-## Definition
-Thermal camouflage is a technology used to hide an object's heat signature from infrared sensors or thermal imaging cameras. By matching the surface temperature of an object to its surrounding environment, it makes the target blend in and become nearly invisible to detection.
+This concept is a key part of our research.

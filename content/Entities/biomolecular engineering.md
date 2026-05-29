@@ -1,7 +1,6 @@
 ---
-title: "biomolecular engineering"
+title: "Biomolecular engineering"
 ---
-# biomolecular engineering
+# Biomolecular engineering
 
-## Definition
-Biomolecular engineering is a field that applies engineering principles to design and manipulate biological molecules, such as DNA, proteins, and lipids, for practical use. It focuses on creating new materials, medicines, and technologies by modifying these tiny building blocks of life to solve complex problems in health and industry.
+This concept is a key part of our research.

@@ -5,7 +5,7 @@ title: "Block Copolymer"
 
 Block copolymers (BCPs) are an essential class of materials in our research, widely used for engineering nanostructures and functional hybrids.
 
-Related to: [[Hybrid materials]], [[Block Copolymer Self-Assembly]]
+Related to: [[Hybrid materials]], [[Block Copolymer Self-assembly|Block Copolymer Self-Assembly]]
 
 ## Definition
 Block copolymers are macromolecules composed of two or more distinct polymer chains (blocks) covalently bonded together. These large molecules are created by linking distinct types of polymer segments end-to-end.

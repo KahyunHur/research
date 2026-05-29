@@ -3,8 +3,6 @@ title: "Polymer Synthesis"
 ---
 # Polymer Synthesis
 
-This is a key research area in our lab under the **Methods** division.
-
 See also our [[Journal Publications]] for more details on our findings related to Polymer Synthesis.
 
 ## Overview
