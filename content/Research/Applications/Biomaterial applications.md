@@ -1,7 +1,7 @@
 ---
-title: "Biomaterials"
+title: Biomaterial applications
 ---
-# Biomaterials
+# Biomaterial applications
 
 **Key Focus Areas / Related Concepts**: [[Nucleic Acid And Protein Engineering|Nucleic acid and protein engineering]]
 
@@ -17,3 +17,4 @@ This approach is incredibly important because it provides unprecedented precisio
 
 ## Related Publications
 - [[2019-Biomaterials-Highly-tumor-specific-DNA-nanostructures-discovered-by-in-vivo|Highly tumor-specific DNA nanostructures discovered by in vivo screening of a nucleic acid cage library and their applications in tumor-targeted drug delivery]]
+- [[2024-Advanced Materials-Polymorphic-Self-Assembly-with-Procedural-Flexibility-for-Monodisperse-Quaternary|Polymorphic Self-Assembly with Procedural Flexibility for Monodisperse Quaternary Protein Structures of DegQ Enzymes]]

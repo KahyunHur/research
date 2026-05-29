@@ -1,7 +1,7 @@
 ---
-title: "Additive Manufacturing"
+title: Additive manufacturing
 ---
-# Additive Manufacturing
+# Additive manufacturing
 
 **Key Focus Areas / Related Concepts**: [[2D_3D_4D Printing|2D/3D/4D printing]]
 

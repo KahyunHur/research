@@ -1,7 +1,7 @@
 ---
-title: "Electronics"
+title: Electronic applications
 ---
-# Electronics
+# Electronic applications
 
 **Key Focus Areas / Related Concepts**: [[Neuromorphic Device|Neuromorphic device]], [[Skin-on Device|Skin-on device]], [[Sensors]]
 

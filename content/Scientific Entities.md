@@ -6,9 +6,6 @@ title: Scientific Entities
 Glossary of technical terms for non-specialists:
 
 - [[ Neuromorphic Computing]]
-- [[- Cellulose]]
-- [[- Materials Science]]
-- [[1. Block Copolymer]]
 - [[2D_3D_4D Printing]]
 - [[Anderson Localization]]
 - [[Artificial Intelligence]]
@@ -70,7 +67,6 @@ Glossary of technical terms for non-specialists:
 - [[Smart Materials]]
 - [[Soft Robotics]]
 - [[Sustainable Batteries]]
-- [[Sustainable Polymers]]
 - [[Thermal Camouflage]]
 - [[Weyl Points]]
 - [[Zirconia]]

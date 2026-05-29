@@ -13,14 +13,14 @@ title: Research Topics
 ## Methods
 
 - [[Computer-aided materials design]]
-- [[Additive Manufacturing]]
-- [[Polymer Synthesis]]
-- [[Self-Assembly Process]]
+- [[Additive manufacturing]]
+- [[Polymer synthesis]]
+- [[Self-assembly process]]
 ## Applications
 
-- [[Energy]]
-- [[Biomaterials]]
-- [[Electronics]]
+- [[Energy applications]]
+- [[Biomaterial applications]]
+- [[Electronic applications]]
 ## Active Projects
 
 - [[Sustainable polymers with degradability and low-carbon footprint]]

@@ -14,8 +14,9 @@ Our lab specializes in bridging the gap between the microscopic world of atoms a
 
 
 ## Related Publications
-- [[2023-Advanced Science-Chiroptical-Synaptic-Heterojunction-Phototransistors-Based-on-Self-Assembled-Nanohelix|Chiroptical Synaptic Heterojunction Phototransistors Based on Self-Assembled Nanohelix of π-Conjugated Molecules for Direct Noise-Reduced Detection of Circularly Polarized Light]]
-- [[2023-ACS Applied Materials & Interfaces-Surface-Rh-Boosted-Photoelectrochemical-Water-Oxidation-of-α-Fe2O3-by|Surface Rh-Boosted Photoelectrochemical Water Oxidation of α-Fe2O3 by Reduced Overpotential in the Rate-Determining Step]]
-- [[2019-Macromolecular Chemistry and Physics-Preparation-of-Hierarchically-Structured-Amorphous-Carbon-Monoliths-with|Preparation of Hierarchically Structured Amorphous Carbon Monoliths with Closed Spherical Mesopores via the Lower Critical Solution Temperature Phase Transition]]
-- [[2011-Macromolecules-Chain-Dynamics-of-Ring-and-Linear-Polyethylene-Melts|Chain Dynamics of Ring and Linear Polyethylene Melts from Molecular Dynamics Simulations]]
 - [[2006-Macromolecules-Comparison-of-Ring-and-Linear-Polyethylene-from-Molecular|Comparison of Ring and Linear Polyethylene from Molecular Dynamics Simulations]]
+- [[2011-Macromolecules-Chain-Dynamics-of-Ring-and-Linear-Polyethylene-Melts|Chain Dynamics of Ring and Linear Polyethylene Melts from Molecular Dynamics Simulations]]
+- [[2010-The Journal of Chemical Physics-Mesoscopic-structure-prediction-of-nanoparticle-assembly-and-coassembly|Mesoscopic structure prediction of nanoparticle assembly and coassembly: Theoretical foundation]]
+- [[2017-Nature Physics-Intrinsic-photonic-wave-localization-in-a-three-dimensional-icosahedral|Intrinsic photonic wave localization in a three-dimensional icosahedral quasicrystal]]
+- [[2014-Nature Communications-Linking-experiment-and-theory-for-three-dimensional-networked-binary|Linking experiment and theory for three-dimensional networked binary metal nanoparticle–triblock terpolymer superstructures]]
+- [[2017-The Journal of Physical Chemistry C-Exploring-Periodic-Bicontinuous-Cubic-Network-Structures-with-Complete|Exploring Periodic Bicontinuous Cubic Network Structures with Complete Phononic Bandgaps]]

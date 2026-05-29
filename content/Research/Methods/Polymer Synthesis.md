@@ -1,7 +1,7 @@
 ---
-title: "Polymer Synthesis"
+title: Polymer synthesis
 ---
-# Polymer Synthesis
+# Polymer synthesis
 
 See also our [[Journal Publications]] for more details on our findings related to Polymer Synthesis.
 

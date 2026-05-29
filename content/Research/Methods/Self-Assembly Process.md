@@ -1,7 +1,7 @@
 ---
-title: Self-Assembly Process
+title: Self-assembly process
 ---
-# Self-Assembly Process
+# Self-assembly process
 
 **Key Focus Areas / Related Concepts**: [[Block Copolymer Self-assembly|Block Copolymer Self-Assembly]]
 
