@@ -12,5 +12,5 @@ Liquid crystals are the unsung heroes of modern displays. If you've ever looked 
 
 Other key areas include:
 - **[[Smart Materials]]:** Using liquid crystals to create "tunable" materials that change color or transparency when stretched or heated, which is perfect for adaptive [[Thermal Camouflage]].
-- **Self-Assembly:** Utilizing the natural organizing power of liquid crystals to guide other materials, like [[Nanomaterials]] or [[Block Copolymer]] chains, into highly complex 3D structures like the [[Gyroid]].
+- **Self-Assembly:** Utilizing the natural organizing power of liquid crystals to guide other materials, like [[Nanomaterials]] or [[Block Copolymer]] chains, into highly complex 3D structures like the Gyroid.
 - **[[Sensors]]:** Designing surfaces that change their appearance when they detect a specific chemical or temperature change, creating simple, power-free indicators for environmental monitoring.

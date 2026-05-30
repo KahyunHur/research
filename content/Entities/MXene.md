@@ -10,6 +10,6 @@ title: "MXene"
 ## Why is it Important?
 Because they are so thin and conductive, MXenes are considered a "super-material" for the next generation of electronics and energy storage:
 - **High-Speed Charging:** Their 2D structure provides a massive surface area and clear pathways for ions to move, which is a key goal for creating **[[Sustainable Batteries]]** that can charge in seconds.
-- **[[Electromagnetic Interference (EMI) Shielding]]:** MXenes are incredibly good at blocking unwanted signals (like the interference that makes your speakers buzz near a phone). We use them to create ultra-thin, flexible shields for sensitive electronics and **[[Skin-on Device]]** sensors.
+- **Electromagnetic Interference (EMI) Shielding:** MXenes are incredibly good at blocking unwanted signals (like the interference that makes your speakers buzz near a phone). We use them to create ultra-thin, flexible shields for sensitive electronics and **[[Skin-on Device]]** sensors.
 - **[[Biosensors]]:** Their highly reactive surfaces can be easily modified to "catch" specific molecules, making them excellent for building the next generation of highly sensitive medical and environmental detectors.
-- **[[Water Desalination]]:** The microscopic gaps between MXene sheets can be tuned to let water molecules pass through while blocking salt and toxins, offering a new way to create clean drinking water.
+- **Water Desalination:** The microscopic gaps between MXene sheets can be tuned to let water molecules pass through while blocking salt and toxins, offering a new way to create clean drinking water.

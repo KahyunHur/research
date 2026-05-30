@@ -13,10 +13,10 @@ While these columns organize themselves into highly structured two-dimensional p
 Because the molecules in CLCs are stacked so closely face-to-face, they create continuous physical pathways. This structure makes them incredibly efficient at transporting electrical charges or energy in one specific direction. 
 
 Key applications include:
-- **[[Organic Electronics]]**: Acting as tiny, flexible molecular wires for conductive pathways.
-- **[[Photovoltaics]]**: Directing electrical charges efficiently to generate electricity from sunlight in solar panels.
-- **[[OLED]] Displays**: Helping to transport energy within the flexible, high-resolution screens used in modern smartphones and televisions.
+- **Organic Electronics**: Acting as tiny, flexible molecular wires for conductive pathways.
+- **Photovoltaics**: Directing electrical charges efficiently to generate electricity from sunlight in solar panels.
+- **OLED Displays**: Helping to transport energy within the flexible, high-resolution screens used in modern smartphones and televisions.
 - **[[Sensors]] and [[Nanomaterials]]**: Providing organized, tunable frameworks that can detect specific chemicals or environmental changes.
 
 ## The Science Behind the Stack
-The flat central core of these molecules is typically rigid, allowing them to stack neatly together through a molecular interaction called **[[Pi-Pi Stacking]]**. To keep the entire structure from freezing into a rigid solid block, flexible chemical "tails" are attached to the outer edge of the discs. These tails melt at relatively low temperatures, providing the fluid, liquid-like behavior that makes [[Liquid Crystal|liquid crystals]] so versatile and easy to blend with [[Polymers|polymers]] or process into ultra-thin films.
+The flat central core of these molecules is typically rigid, allowing them to stack neatly together through a molecular interaction called **Pi-Pi Stacking**. To keep the entire structure from freezing into a rigid solid block, flexible chemical "tails" are attached to the outer edge of the discs. These tails melt at relatively low temperatures, providing the fluid, liquid-like behavior that makes [[Liquid Crystal|liquid crystals]] so versatile and easy to blend with [[Polymers|polymers]] or process into ultra-thin films.

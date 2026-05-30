@@ -12,5 +12,5 @@ Weyl points are at the cutting edge of **[[Materials Science]]** and the search 
 
 Potential applications include:
 - **Ultra-Fast Electronics:** Building transistors that are much faster and cooler than today's silicon chips, which is critical for high-performance computing.
-- **[[Quantum Computing]]:** Utilizing the unique "braiding" of electron paths around Weyl points to create stable quantum bits (qubits) that are resistant to noise.
+- **Quantum Computing:** Utilizing the unique "braiding" of electron paths around Weyl points to create stable quantum bits (qubits) that are resistant to noise.
 - **Advanced [[Sensors]]:** Weyl semimetals are incredibly sensitive to magnetic fields and light, making them perfect for building high-precision detectors for scientific research and aerospace technology.
