@@ -5,7 +5,7 @@ title: "Computer-aided materials design"
 
 **Key Focus Areas / Related Concepts**: [[DFT|DFT]], [[Molecular Dynamics]], [[Finite Elements]], [[Artificial Intelligence]]
 
-See also our [[Publications]] for more details on our findings related to Computer-aided materials design.
+See also our [[Publications Page]] for more details on our findings related to Computer-aided materials design.
 
 ![[Computer-aided materials design.jpg]]
 

@@ -5,7 +5,7 @@ title: Self-assembly process
 
 **Key Focus Areas / Related Concepts**: [[Block Copolymer Self-assembly|Block Copolymer Self-Assembly]]
 
-See also our [[Publications]] for more details on our findings related to Self-Assembly.
+See also our [[Publications Page]] for more details on our findings related to Self-Assembly.
 
 ![[Self-assembly process.jpg]]
 

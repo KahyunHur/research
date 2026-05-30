@@ -3,7 +3,7 @@ title: "Sustainable polymers with degradability and low-carbon footprint"
 ---
 # Sustainable polymers with degradability and low-carbon footprint
 
-See also our [[Publications]] for more details on our findings related to Sustainable polymers with degradability and low-carbon footprint.
+See also our [[Publications Page]] for more details on our findings related to Sustainable polymers with degradability and low-carbon footprint.
 
 ![[Sustainable polymers with degradability and low-carbon footprint.jpg]]
 

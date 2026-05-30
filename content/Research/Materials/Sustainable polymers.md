@@ -5,7 +5,7 @@ title: "Sustainable polymers"
 
 **Key Focus Areas / Related Concepts**: [[Cellulose]]
 
-See also our [[Publications]] for more details on our findings related to Sustainable polymers.
+See also our [[Publications Page]] for more details on our findings related to Sustainable polymers.
 
 ![[Sustainable Polymers.jpg]]
 

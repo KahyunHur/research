@@ -5,7 +5,7 @@ title: Electronic applications
 
 **Key Focus Areas / Related Concepts**: [[Neuromorphic Device|Neuromorphic device]], [[Skin-on Device|Skin-on device]], [[Sensors]]
 
-See also our [[Publications]] for more details on our findings related to Electronics.
+See also our [[Publications Page]] for more details on our findings related to Electronics.
 
 ![[Energy applications.jpg]]
 

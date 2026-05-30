@@ -5,7 +5,7 @@ title: "Hybrid materials"
 
 **Key Focus Areas / Related Concepts**: [[Block Copolymer]], [[Liquid Crystal]]
 
-See also our [[Publications]] for more details on our findings related to Hybrid materials.
+See also our [[Publications Page]] for more details on our findings related to Hybrid materials.
 
 ![[Hybrid materials.jpg]]
 

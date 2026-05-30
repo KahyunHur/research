@@ -3,7 +3,7 @@ title: "Infrared light control for radiative cooling and camouflage"
 ---
 # Infrared light control for radiative cooling and camouflage
 
-See also our [[Publications]] for more details on our findings related to Infrared light control for radiative cooling and camouflage.
+See also our [[Publications Page]] for more details on our findings related to Infrared light control for radiative cooling and camouflage.
 
 ![[Infrared light control for radiative cooling and camouflage.jpg]]
 

@@ -3,7 +3,7 @@ title: "High-throughput DNA/Protein sequencing"
 ---
 # High-throughput DNA/Protein sequencing
 
-See also our [[Publications]] for more details on our findings related to High-throughput DNA/Protein sequencing.
+See also our [[Publications Page]] for more details on our findings related to High-throughput DNA/Protein sequencing.
 
 ![[High-throughput DNA_Protein sequencing.jpg]]
 

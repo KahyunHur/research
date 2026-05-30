@@ -5,7 +5,7 @@ title: Biomaterial applications
 
 **Key Focus Areas / Related Concepts**: [[Nucleic Acid And Protein Engineering|Nucleic acid and protein engineering]]
 
-See also our [[Publications]] for more details on our findings related to Biomaterials.
+See also our [[Publications Page]] for more details on our findings related to Biomaterials.
 
 ![[Biomaterial applications.jpg]]
 

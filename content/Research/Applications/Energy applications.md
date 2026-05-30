@@ -5,7 +5,7 @@ title: Energy applications
 
 **Key Focus Areas / Related Concepts**: [[Lithium Batteries|Lithium batteries]], [[Fuel Cells|Fuel cells]], [[Radiative Cooling|Radiative cooling]], [[Catalysis]]
 
-See also our [[Publications]] for more details on our findings related to Energy.
+See also our [[Publications Page]] for more details on our findings related to Energy.
 
 ![[Energy applications.jpg]]
 

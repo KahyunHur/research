@@ -3,7 +3,7 @@ title: Polymer synthesis
 ---
 # Polymer synthesis
 
-See also our [[Publications]] for more details on our findings related to Polymer Synthesis.
+See also our [[Publications Page]] for more details on our findings related to Polymer Synthesis.
 
 ![[Polymer synthesis.jpg]]
 

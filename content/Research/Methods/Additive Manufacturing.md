@@ -5,7 +5,7 @@ title: Additive manufacturing
 
 **Key Focus Areas / Related Concepts**: [[2D_3D_4D Printing|2D/3D/4D printing]]
 
-See also our [[Publications]] for more details on our findings related to Additive Manufacturing.
+See also our [[Publications Page]] for more details on our findings related to Additive Manufacturing.
 
 ![[Additive manufacturing.jpg]]
 
