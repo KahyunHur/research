@@ -17,6 +17,22 @@ ExternalPlugin.FolderPage({
   }
 })
 
+
+// ====================================================
+// 2. 사이드바 "파일 탐색기(Explorer)" 경로 역순 정렬
+// ====================================================
+ExternalPlugin.Explorer({
+  sortFn: (a, b) => {
+    // Explorer는 노드 구조(FileNode)를 사용하므로 실제 경로는 a.file.slug 에 존재합니다.
+    // 폴더인 경우 file 속성이 없을 수 있으므로 폴더명(a.name)을 대체재로 사용합니다.
+    const pathA = a.file?.slug ?? a.name ?? ""
+    const pathB = b.file?.slug ?? b.name ?? ""
+
+    // 경로 기준 역순(Z->A) 정렬
+    return pathB.localeCompare(pathA, undefined, { numeric: true })
+  }
+})
+
 // ====================================================
 
 const config = await loadQuartzConfig()
