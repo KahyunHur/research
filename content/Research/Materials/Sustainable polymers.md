@@ -7,6 +7,8 @@ title: "Sustainable polymers"
 
 See also our [[Journal Publications]] for more details on our findings related to Sustainable polymers.
 
+![[Sustainable Polymers.jpg]]
+
 ## Overview
 [[Sustainable Polymers|Sustainable polymers]] are the building blocks of a greener future. Unlike traditional plastics derived from fossil fuels, these materials are designed to be environmentally friendly throughout their entire lifecycle. They are created from renewable resources and are often biodegradable, meaning they can break down naturally without leaving harmful [[Microplastics|microplastics]] behind. By shifting to these eco-friendly alternatives, we can significantly reduce our reliance on petroleum and minimize the environmental footprint of countless everyday products.
 

@@ -5,6 +5,8 @@ title: "High-throughput DNA/Protein sequencing"
 
 See also our [[Journal Publications]] for more details on our findings related to High-throughput DNA/Protein sequencing.
 
+![[High-throughput DNA_Protein sequencing.jpg]]
+
 ## Overview
 Imagine trying to read a library of billions of books in just a few days. That is the challenge of [[High-throughput Sequencing|High-throughput sequencing]], a revolutionary technology that allows scientists to rapidly "read" the genetic instructions hidden within DNA and proteins. Instead of decoding one letter at a time, this technology processes millions of genetic fragments simultaneously. This massive scale of information gathering has completely transformed medicine and biology, enabling personalized treatments and rapid disease detection.
 

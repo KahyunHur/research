@@ -7,6 +7,8 @@ title: "Hybrid materials"
 
 See also our [[Journal Publications]] for more details on our findings related to Hybrid materials.
 
+![[Hybrid materials.jpg]]
+
 ## Overview
 Hybrid materials are like the ultimate team-up in the world of chemistry and engineering. Instead of relying on a single substance, scientists combine two or more fundamentally different building blocks to create a brand-new material that inherits the best traits of each. Imagine combining the flexibility of a plastic with the structural strength of a metal, or in our case, creating advanced, responsive structures that can change their properties on demand. By merging different chemical "personalities," we can design [[Smart Materials|smart materials]] that behave in ways entirely unique to their hybrid nature.
 

@@ -7,6 +7,8 @@ title: "Coordination polymers"
 
 See also our [[Journal Publications]] for more details on our findings related to Coordination polymers.
 
+![[Coordination polymers.jpg]]
+
 ## Overview
 Coordination polymers are like molecular LEGO sets where metal atoms act as the structural joints, held together by chemical connectors into vast, repeating networks. By carefully selecting these components, scientists can "tune" a material's properties, creating structures that can capture gases, sense chemicals, or conduct electricity. They represent a frontier in materials science where we design functions from the bottom up, atom by atom, to solve complex engineering challenges.
 

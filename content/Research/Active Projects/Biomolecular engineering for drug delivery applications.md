@@ -5,6 +5,8 @@ title: "Biomolecular engineering for drug delivery applications"
 
 See also our [[Journal Publications]] for more details on our findings related to Biomolecular engineering for drug delivery applications.
 
+![[Biomolecular engineering for drug delivery applications.jpg]]
+
 ## Overview
 [[Biomolecular Engineering|Biomolecular engineering]] involves designing and modifying biological molecules—like proteins or DNA—to perform specific, highly targeted tasks. In our lab, we focus on using these biological building blocks to create advanced systems for getting medicine exactly where it needs to go in the body. Imagine a microscopic delivery truck that only stops at diseased cells, completely ignoring the healthy ones; that is the core promise of this technology.
 

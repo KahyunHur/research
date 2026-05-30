@@ -7,6 +7,8 @@ title: Biomaterial applications
 
 See also our [[Journal Publications]] for more details on our findings related to Biomaterials.
 
+![[Biomaterial applications.jpg]]
+
 ## Overview
 [[Biomaterials]] are engineered substances designed to interact safely and effectively with biological systems for medical purposes. Traditionally, these materials were used primarily for structural roles, such as joint replacements or dental implants. Today, the field has evolved dramatically, focusing on creating dynamic, interactive materials that can communicate directly with the body's own cells and molecular machinery to actively promote healing and treat complex conditions.
 

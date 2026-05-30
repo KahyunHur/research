@@ -7,6 +7,8 @@ title: Energy applications
 
 See also our [[Journal Publications]] for more details on our findings related to Energy.
 
+![[Energy applications.jpg]]
+
 ## Overview
 Energy is the invisible force that powers our modern world, but generating it is only half the challenge. The real magic happens when we find ways to store, convert, and manage that energy efficiently for everyday applications. In our lab, we focus on developing advanced materials that make clean energy technologies more powerful, durable, and accessible for everything from electric vehicles to sustainable homes.
 

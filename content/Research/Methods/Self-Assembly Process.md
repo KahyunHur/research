@@ -7,6 +7,8 @@ title: Self-assembly process
 
 See also our [[Journal Publications]] for more details on our findings related to Self-Assembly.
 
+![[Self-assembly process.jpg]]
+
 ## Overview
 Imagine if you could throw a pile of bricks into the air and they automatically organized themselves into a perfectly built house. In materials science, this concept is known as self-assembly. It is a process where molecules or small building blocks spontaneously arrange themselves into organized, structured patterns without outside help. They do this by following natural chemical rules—like magnets that naturally snap together in a specific way. This allows scientists to create incredibly intricate structures at a microscopic level simply by designing the right starting pieces.
 

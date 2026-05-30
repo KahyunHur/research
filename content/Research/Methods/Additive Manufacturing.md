@@ -7,6 +7,8 @@ title: Additive manufacturing
 
 See also our [[Journal Publications]] for more details on our findings related to Additive Manufacturing.
 
+![[Additive manufacturing.jpg]]
+
 ## Overview
 Additive manufacturing is like building a house brick by brick, rather than carving it out of a single large block of stone. Instead of cutting material away, this method builds objects layer by layer from digital blueprints. This approach significantly reduces waste and allows researchers to create incredibly complex shapes and intricate internal structures that would be impossible to achieve with traditional, subtractive manufacturing methods.
 
@@ -17,3 +19,4 @@ This revolutionary approach is transforming how we design and build future techn
 
 ## Related Publications
 - [[2025-Advanced Materials-In-Situ-Programmable,-Active,-and-Interactive-Crystallization-by|In Situ Programmable, Active, and Interactive Crystallization by Localized Polymerization]]
+- [[2026-Advanced Functional Materials-Programmable-In-Situ-Interactions-Between-Resins-and-Photopolymerized-Structures|Programmable In-Situ Interactions Between Resins and Photopolymerized Structures for Seamlessly Integrated Optical Manufacturing of Microlenses]]

@@ -7,6 +7,8 @@ title: Electronic applications
 
 See also our [[Journal Publications]] for more details on our findings related to Electronics.
 
+![[Energy applications.jpg]]
+
 ## Overview
 Electronics form the invisible backbone of the modern world, controlling everything from the smartphones in our pockets to the life-saving equipment in hospitals. At its core, the field of electronics involves directing electrical currents to process information, communicate, and interact with the physical environment. However, instead of just making traditional devices smaller or faster, our lab is focused on fundamentally reimagining how electronics integrate with our daily lives and even the human body itself. We are pushing the boundaries of what these systems can achieve by making them more intelligent, adaptable, and seamlessly connected to us.
 

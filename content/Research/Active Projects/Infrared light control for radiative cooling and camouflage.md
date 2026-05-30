@@ -5,6 +5,8 @@ title: "Infrared light control for radiative cooling and camouflage"
 
 See also our [[Journal Publications]] for more details on our findings related to Infrared light control for radiative cooling and camouflage.
 
+![[Infrared light control for radiative cooling and camouflage.jpg]]
+
 ## Overview
 Everything around us emits heat in the form of invisible [[Infrared Radiation|infrared radiation]]. By designing advanced materials that can control how this light is absorbed, reflected, or emitted, we can create surfaces with remarkable thermal abilities. As materials scientists, our research focuses on engineering these unique structures at the microscopic level, allowing us to manipulate heat flow in ways that traditional materials simply cannot.
 
