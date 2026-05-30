@@ -17,6 +17,8 @@ Our lab specializes in bridging the gap between the microscopic world of atoms a
 - [[2006-Macromolecules-Comparison-of-Ring-and-Linear-Polyethylene-from-Molecular|Comparison of Ring and Linear Polyethylene from Molecular Dynamics Simulations]]
 - [[2011-Macromolecules-Chain-Dynamics-of-Ring-and-Linear-Polyethylene-Melts|Chain Dynamics of Ring and Linear Polyethylene Melts from Molecular Dynamics Simulations]]
 - [[2010-The Journal of Chemical Physics-Mesoscopic-structure-prediction-of-nanoparticle-assembly-and-coassembly|Mesoscopic structure prediction of nanoparticle assembly and coassembly: Theoretical foundation]]
+- [[2011-Angewandte Chemie International Edition-Three-Dimensionally-Isotropic-Negative-Refractive-Index-Materials-from-Block|Three-Dimensionally Isotropic Negative Refractive Index Materials from Block Copolymer Self-Assembled Chiral Gyroid Networks]]
+- [[2012-Nano Letters-Predicting-Chiral-Nanostructures,-Lattices-and-Superlattices-in-Complex|Predicting Chiral Nanostructures, Lattices and Superlattices in Complex Multicomponent Nanoparticle Self-Assembly]]
 - [[2017-Nature Physics-Intrinsic-photonic-wave-localization-in-a-three-dimensional-icosahedral|Intrinsic photonic wave localization in a three-dimensional icosahedral quasicrystal]]
 - [[2014-Nature Communications-Linking-experiment-and-theory-for-three-dimensional-networked-binary|Linking experiment and theory for three-dimensional networked binary metal nanoparticle–triblock terpolymer superstructures]]
 - [[2017-The Journal of Physical Chemistry C-Exploring-Periodic-Bicontinuous-Cubic-Network-Structures-with-Complete|Exploring Periodic Bicontinuous Cubic Network Structures with Complete Phononic Bandgaps]]

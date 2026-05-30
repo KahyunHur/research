@@ -37,4 +37,4 @@ Researchers found a way to "shake" the internal components into place using ultr
 *   **Energy Efficient:** It uses the kinetic energy of vibrating water rather than high heat, which could damage sensitive biological components.
 
 **The Takeaway:**
-This discovery moves us closer to a future where machines and medical devices are truly "resilient." By using sound as a remote control for chemistry, we can create artificial muscles or sensors that "recharge" their mechanical strength on command. It's a major step forward for [[General Materials Science|materials science]], showing that we don't just have to wait for nature to take its course—we can use physics to speed up the healing process.
+This discovery moves us closer to a future where machines and medical devices are truly "resilient." By using sound as a remote control for chemistry, we can create artificial muscles or sensors that "recharge" their mechanical strength on command. It's a major step forward for materials science, showing that we don't just have to wait for nature to take its course—we can use physics to speed up the healing process.

@@ -1,16 +1,14 @@
 ---
 title: "Fluorine-free"
 ---
+
 # Fluorine-free
 
-## Definition
-Fluorine-free (or PFAS-free) refers to materials and technologies that are manufactured without the use of per- and polyfluoroalkyl substances (PFAS). Often referred to as "forever chemicals" because they do not break down naturally in the environment, PFAS have traditionally been used extensively in industrial applications, including battery manufacturing and cooling systems, due to their chemical stability and heat resistance. 
+## What is it?
+**Fluorine-free** (or PFAS-free) refers to materials and technologies that are manufactured without using per- and polyfluoroalkyl substances (PFAS). These chemicals, often called "forever chemicals," are famous for being water-repellent and heat-resistant (like the coating on a non-stick pan). However, they are also incredibly difficult for nature to break down, leading to long-term pollution in our water, soil, and bodies. A fluorine-free approach means finding safer, eco-friendly alternatives that provide the same high performance without the environmental cost.
 
-## Importance in Research and Industry
-Due to their persistence in the environment and potential health risks, global regulatory bodies like the European Chemicals Agency (ECHA) and the US Environmental Protection Agency (EPA) are implementing strict regulations to limit or ban the use of PFAS. This regulatory shift has made the development of fluorine-free alternatives a critical global priority.
-
-In our lab, developing fluorine-free technologies is a central goal for ensuring sustainability. We focus on:
-- **Sustainable Batteries:** Replacing traditional fluorinated battery binders (like PVDF and PTFE) with eco-friendly biopolymers such as [[Cellulose|cellulose]]. This not only complies with upcoming regulations but also makes the recycling of batteries much safer by avoiding the release of toxic hydrofluoric acid (HF) gas during the recycling process.
-- **Advanced Cooling Systems:** Designing [[Thermal Management|thermal management]] solutions, such as two-phase immersion cooling systems for AI data centers, that utilize PFAS-free coolants while maintaining high performance. 
-
-By prioritizing fluorine-free architectures, our research aims to bridge the gap between high-performance energy solutions and long-term environmental sustainability.
+## Why is it Important?
+The shift toward fluorine-free materials is a global regulatory and ethical priority. In our lab, this is a core pillar of our [[Sustainability]] strategy:
+- **[[Sustainable Batteries]]:** Most modern battery "glues" (binders like PVDF) contain high levels of fluorine. When these batteries are recycled or burned, they can release toxic gases. We are replacing these with natural, fluorine-free alternatives like [[Cellulose]], which are safer to manufacture and much easier to recycle.
+- **[[Immersion Cooling]]:** Many high-performance cooling liquids for AI data centers are based on fluorinated chemicals. We are researching PFAS-free coolants and verifying their compatibility using [[Polymer Solubility]] simulations to ensure that the cooling systems of the future are as green as they are efficient.
+- **Environmental Health:** By eliminating these "forever chemicals" from the start, we prevent the creation of more [[Microplastics]] and toxic runoff, aligning our research with the circular economy and global environmental standards.

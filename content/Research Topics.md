@@ -1,7 +1,7 @@
 ---
 title: Research Topics
 ---
-![[research_front_image.jpg]]
+![[research_front_image.jpg|500]]
 
 # Research Topics
 

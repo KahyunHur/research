@@ -32,7 +32,6 @@ Glossary of technical terms for non-specialists:
 - [[Finite Elements]]
 - [[Fluorine-free]]
 - [[Fuel Cells]]
-- [[General Materials Science]]
 - [[Halide-bridged Coordination Polymer]]
 - [[High-throughput Sequencing]]
 - [[Infrared]]
