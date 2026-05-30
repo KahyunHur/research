@@ -7,7 +7,7 @@ draft: false
 
 Explore our research, publications, and learn about the concepts we work with.
 
-- [[Group Members Page]]
-- [[Research Page]]
-- [[Publications Page]]
-- [[Entities Page]]
+- [[Group Members Page|Group Members]]
+- [[Research Page|Research]]
+- [[Publications Page|Publications]]
+- [[Entities Page|Entities]]
