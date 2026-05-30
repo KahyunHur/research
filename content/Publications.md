@@ -1,5 +1,5 @@
 ---
-title: Journal Publications
+title: Publications
 ---
 # Journal Publications
 - Kim, Kibeom; Oh, Sangmin; Hur, Kahyun†; Cho, Hyesung† (2026). **Programmable In-Situ Interactions Between Resins and Photopolymerized Structures for Seamlessly Integrated Optical Manufacturing of Microlenses**. *Advanced Functional Materials*, e28056. _†Corresponding Authors_ [[2026-Advanced Functional Materials-Programmable-In-Situ-Interactions-Between-Resins-and-Photopolymerized-Structures|Read Note]]

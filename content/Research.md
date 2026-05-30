@@ -1,5 +1,5 @@
 ---
-title: Research Topics
+title: Research
 ---
 ![[research_front_image.jpg|500]]
 

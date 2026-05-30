@@ -3,7 +3,7 @@ title: "Polymer electrolytes for lithium batteries"
 ---
 # Polymer electrolytes for lithium batteries
 
-See also our [[Journal Publications]] for more details on our findings related to Polymer electrolytes for lithium batteries.
+See also our [[Publications]] for more details on our findings related to Polymer electrolytes for lithium batteries.
 
 ![[Polymer electrolytes for lithium batteries.jpg]]
 

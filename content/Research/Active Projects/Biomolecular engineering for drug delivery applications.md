@@ -3,7 +3,7 @@ title: "Biomolecular engineering for drug delivery applications"
 ---
 # Biomolecular engineering for drug delivery applications
 
-See also our [[Journal Publications]] for more details on our findings related to Biomolecular engineering for drug delivery applications.
+See also our [[Publications]] for more details on our findings related to Biomolecular engineering for drug delivery applications.
 
 ![[Biomolecular engineering for drug delivery applications.jpg]]
 

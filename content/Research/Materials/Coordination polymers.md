@@ -5,7 +5,7 @@ title: "Coordination polymers"
 
 **Key Focus Areas / Related Concepts**: [[Halide-bridged Coordination Polymer]]
 
-See also our [[Journal Publications]] for more details on our findings related to Coordination polymers.
+See also our [[Publications]] for more details on our findings related to Coordination polymers.
 
 ![[Coordination polymers.jpg]]
 

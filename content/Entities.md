@@ -1,7 +1,7 @@
 ---
-title: Scientific Entities
+title: Entities
 ---
-# Scientific Entities
+# Entities
 
 Glossary of technical terms for non-specialists:
 
