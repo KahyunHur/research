@@ -47,3 +47,29 @@ title: Publications
 - Hur, Kahyun; Jeong, Cheol; Winkler, Roland G.; Lacevic, Naida; Gee, Richard H.; Yoon, Do Y. (2011). **Chain Dynamics of Ring and Linear Polyethylene Melts from Molecular Dynamics Simulations**. *Macromolecules*, 44, 2311-2315. [[2011-Macromolecules-Chain-Dynamics-of-Ring-and-Linear-Polyethylene-Melts|Read Note]]
 - Hur, Kahyun; Hennig, Richard G.; Escobedo, Fernando A.; Wiesner, Ulrich (2010). **Mesoscopic structure prediction of nanoparticle assembly and coassembly: Theoretical foundation**. *The Journal of Chemical Physics*, 133, 194108. [[2010-The Journal of Chemical Physics-Mesoscopic-structure-prediction-of-nanoparticle-assembly-and-coassembly|Read Note]]
 - Hur, Kahyun; Winkler, Roland G.; Yoon, Do Y. (2006). **Comparison of Ring and Linear Polyethylene from Molecular Dynamics Simulations**. *Macromolecules*, 39, 3975-3977. [[2006-Macromolecules-Comparison-of-Ring-and-Linear-Polyethylene-from-Molecular|Read Note]]
+
+# Patents
+- Kim, M.-S.; Hur, K. “Method of removing contaminants by using amorphous nanostructure composed of inorganic polymer” Korea Patent App. No. 10-2020-0161161 (11/26/2020)
+- Park, H. S.; Hur, K.; Kim, M.-S.; Kong, J.; Jang, J. H.; Yoon, C. W.; Ham, H. C.; Nam,  S. W.; Han, J.; Jo, A. “Catalyst for electrochemical ammonia synthesis and method for producing the same” US Patent App. No. 16/216287 (12/12/2018); Korea Patent App. No. 10-2018-0110994 (09/17/2018)
+- Hur, K.; Kim, M.-S. “Amorphous nanowires including Cu and S and synthesis methods therein” Korea Patent App. No. 10-2017-0136616 (09/29/2017); PCT/KR2018/011382 (08/27/2018); US Patent App. No.16/646144 (03/11/2020); China Patent App. No. 201880058437.7 (03/09/2020) 
+- Hur, K.; Kim, M.-S. “Composite Body in which Nanoparticles are uniformly dispersed in nanosized Pores of a Support and Method of manufacturing the same” Korea Patent App. No. 10-2018-0097289 (08/21/2018); PCT/KR2019/001091 (01/25/2019); US Patent App. No. 17/269529 (02/19/2021)
+- Hur, K.; Kim, M.-S. “Fractal-shaped Alloy Nanostructure formed by using Amorphous Nanostructure and Method of manufacturing the same” Korea Patent App. No. 10-2018-0097279 (08/21/2018); PCT/KR2019/001087 (01/25/2019)
+- Hur, K.; Kim, M.-S. “Method of manufacturing ultrasmall metallic nanostructure using metal-halide polymer nanostructure” Korea Patent App. No. 10-2018-0066094 (06/08/2018); PCT/KR2019/001083 (01/25/2019); US Patent App. No. 17/059214 (11/26/2020); Japan Patent App. No. 2020-566992 (11/30/2020); EU Patent App. No. 19815587.1 (12/01/2020); China Patent App. No. 201980038065.6 (12/07/2020)
+- Hur, K.; Jeon, S. “Carbon Nanotube Yarns and Fabrication Methods Therein” US Patent App. No. 15/421487 (02/01/2017)
+- Kim, S.; Han, S.; Lee, K.; Hur, K. “Calculation method and electronic device for characteristic of impurity and defect structure to solid substance” Korea Patent App. No. 10-2016-0119113 (09/06/2016)
+- Hur, K.; Moon, M.; Park, H.; Han, S.; Kim, S. “Networked Nucleic Acid Nanomaterials and Fabrication Methods Therein” Korea Patent App. No. 10-2016-0044499 (04/12/2016); Reg. No. 10-1873992 (06/27/2018)
+- Han, S.; Bae, S.; Lee, H.; Hur, K.; Kim, S. “Method for developing of liquid state hydrogen storage materials and computational electronic device, and organic compounds generating from the same” Korea Patent App. No. 10-2016-0041676 (04/05/2016)
+- Hur, K.; Hwang, S.; Jeon, S.; Jeon, H. “Hierarchically-structured Three-dimensional Carbon Materials and Fabrication Methods Therein” Korea Patent App. No. 10-2016-0039537 (03/31/2016)
+- Hur, K.; Jeon, S. “Carbon Nanotube Yarns and Fabrication Methods Therein” Korea Patent App. No. 10-2016-0017539 (02/16/2016); Reg. No. 10-1905622 (10/01/2018)
+- Hur, K.; Bae, J. “PROJECTOR WITH LASER LIGHTING SOURCE”, PCT App. No. PCT/KR08/001564 (03/20/2008) 
+- Park, G.; Hur, K.; Kwon, H. "Liquid Crystal Display" Korea Patent App. No. 10-2007-0074084 (07/24/07); Registration No. 1011801970000 (08/30/12)
+- Hur, K.; Bae, J.; Choi, T.; Park, S.; Park, J. "Optical Engines for Micro Projector" Korea Patent App. No. 10-2007-0057257 (06/12/07); Registration No. 1011677470000 (07/16/12)
+- Hur, K.; Park, J.; Bae, J.; Kwon, H. "Laser Light Source Apparatus and Projector Comprising Same" Korea Patent App. No. 10-2007-0055405 (06/07/07)
+- Bae, J. and Hur, K.; "Display and Operating Method Thereof" Korea Patent App. No. 10-2007-0029500 (03/27/2007) 
+- Hur, K. and Bae, J.; "Projector Using Laser Light Source" Korea Patent App. No. 10-2007-0027319 (03/20/2007)
+- Hur, K.; Bae, J.; Oh, G.; Kwon, H.; "Projector Using Laser Light Source" Korea Patent App. No. 10-2006-0125744 (12/11/2006)
+- Kwon, S.; Hur, K.; Kim, H.; Jang, H.; "Liquid Crystal Display Panel" Korea Patent App. No. 10-2006-0106202 (10/31/2006)
+- Hur, K.; Bae, J.; Jeon, P.; "Non-Emissive Display Apparatus" Korea Patent App. No. 10-2006-0097476 (10/03/2006)
+- Hur, K.; "Projection Liquid Crystal Display" PCT App. No. PCT/KR06/003172 (08/18/2006)
+- Hur, K.; Bae, J.; Jang, H.; "Liquid Crystal Display Device" PCT App. No. PCT/KR06/002693 (07/10/2006)
+- Hur, K.; Bae, J.; Jang, H.; "Liquid Crystal Display Device" Korea Patent App. No. 10-2006-0027175 (03/24/2006)
