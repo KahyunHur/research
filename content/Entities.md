@@ -5,7 +5,6 @@ title: Entities
 
 Glossary of technical terms for non-specialists:
 
-- [[ Neuromorphic Computing]]
 - [[2D_3D_4D Printing]]
 - [[Anderson Localization]]
 - [[Artificial Intelligence]]
