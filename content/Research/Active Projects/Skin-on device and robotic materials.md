@@ -5,6 +5,8 @@ title: "Skin-on device and robotic materials"
 
 See also our [[Publications Page]] for more details on our findings related to Skin-on device and robotic materials.
 
+![[Skin-on device and robotic materials.jpg]]
+
 ## Overview
 Skin-on devices represent a new frontier in wearable technology, consisting of ultra-thin, flexible electronics that adhere directly to the human body. These systems are designed to monitor physiological signals or provide tactile feedback without the bulk of traditional hardware. Our lab approaches this by exploring the fundamental properties of [[Biocompatible Materials]] that can stretch and bend just like human tissue while maintaining high electrical performance.
 
