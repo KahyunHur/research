@@ -1,7 +1,7 @@
 ---
-title: Entities
+title: Scientific Entities
 ---
-# Entities
+# Scientific Entities
 
 Glossary of technical terms for non-specialists:
 
@@ -33,6 +33,7 @@ Glossary of technical terms for non-specialists:
 - [[Fuel Cells]]
 - [[Halide-bridged Coordination Polymer]]
 - [[High-throughput Sequencing]]
+- [[index]]
 - [[Infrared]]
 - [[Infrared Radiation]]
 - [[Liquid Crystal]]
